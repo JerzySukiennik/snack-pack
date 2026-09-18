@@ -1,0 +1,6 @@
+.DS_Store
+.env
+Niepotrzebne/
+node_modules/
+.claude/.autodeploy-builds
+.claude/settings.local.json
